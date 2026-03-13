@@ -16,5 +16,5 @@ O sistema permite que o usuário faça perguntas por voz, receba respostas intel
 ## 🛠️ Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Ronaldo94-GITHUB /https://github.com/Ronaldo94-GITHUB/Assistente-de-Voz-Multi-Idiomas-Com-Whisper-e-ChatGPT/blob/main/README.md.git
 
