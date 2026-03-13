@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como uma solução prática para criar um assistente de voz inteligente, capaz de compreender perguntas faladas em diferentes idiomas e responder de forma natural.
 A proposta é integrar tecnologias de Speech-to-Text, Processamento de Linguagem Natural e Text-to-Speech, apoiadas por documentação clara e exemplos práticos.
 
-![Capa do Projeto](.png)
+![Capa do Projeto](capa IA voz.png)
 
 📊 Infográfico do Sistema
 Representa visualmente como o áudio é capturado, transcrito, processado pelo ChatGPT e convertido novamente em voz para interação fluida.
