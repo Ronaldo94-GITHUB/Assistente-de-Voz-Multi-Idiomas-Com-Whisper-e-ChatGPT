@@ -149,6 +149,14 @@ Adicionar suporte a streaming de áudio em tempo real.
 
 ---
 
+📺 Recursos Complementares
+
+Código-fonte no Google Colab
+
+Live completa no YouTube da DIO
+
+---
+
 👨‍💻 Pessoa Desenvolvedora do Projeto / Project Developer
 Ronaldo(https://github.com/Ronaldo94-GITHUB)
 
