@@ -151,9 +151,9 @@ Adicionar suporte a streaming de áudio em tempo real.
 
 📺 Recursos Complementares
 
-Código-fonte no Google Colab
+Código-fonte no Google Colab(https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing)
 
-Live completa no YouTube da DIO
+Live completa no YouTube da DIO(https://www.youtube.com/watch?v=3ojLFBipm5U)
 
 ---
 
