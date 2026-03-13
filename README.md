@@ -87,6 +87,8 @@ Processamento (ChatGPT)
 
 Síntese de voz (gTTS)
 
+---
+
 📘 Arquivos do Projeto
 
 📄 Notebook: projeto_chatgpt_whisper.ipynb  
@@ -106,6 +108,8 @@ Respostas inteligentes e contextuais
 Conversão em áudio natural
 
 Interface simples e prática para o usuário
+
+---
 
 🔍 Funcionalidades do Sistema
 
