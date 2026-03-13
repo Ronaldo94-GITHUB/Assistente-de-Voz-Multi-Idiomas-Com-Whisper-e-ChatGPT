@@ -1,4 +1,4 @@
-🎤 Assistente de Voz Multi-Idiomas com Whisper e ChatGPT
+🎤 ASSISTENTE DE VOZ MULTI-IDIOMAS COM WHISPER E CHATGPT
 
 Este projeto foi desenvolvido como uma solução prática para criar um assistente de voz inteligente, capaz de compreender perguntas faladas em diferentes idiomas e responder de forma natural.
 A proposta é integrar tecnologias de Speech-to-Text, Processamento de Linguagem Natural e Text-to-Speech, apoiadas por documentação clara e exemplos práticos.
